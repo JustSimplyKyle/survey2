@@ -8,7 +8,9 @@
 
 
 const urls = [
-	'https://github.com/Luke100000/minecraft-comes-alive',
-	'https://www.eclipse.org/openj9/docs/introduction/',
-	'https://github.com/KyleUltimate/random-survey'
+	'https://docs.google.com/forms/d/e/1FAIpQLSdM-YeaCQN_Ei6NLe_cL9_nW34joJ3GE9Sy_kH7IOuzH9KTSQ/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSe6C8UyTpb7Xil0SmAf8owfw8on1h9hrDusgLvATGbMay38XQ/viewform?usp=sf_link ',
+	'https://docs.google.com/forms/d/e/1FAIpQLScVG87QXo801X1Tp1yCjDNmDaK0fbbnzdN8_nU9i8CnI6kjEw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdvdloAlgclcRaLJdOT9s0pxFnvcUXfA9HvC0gbd4o18IBJ6Q/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSc24pxPlzlXGVFfEh6ipb8zdud9yapDIpeG9QeCcucmNiY3VA/viewform?usp=sf_link'
 ];
